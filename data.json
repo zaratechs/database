@@ -1,0 +1,31 @@
+{
+  "myApi": [
+    {
+      "name": "Toto",
+      "password": "toto",
+      "emailOffers": true,
+      "interfaceStyle": "Toto",
+      "subscriptionType": "Annual",
+      "notes": "Mercredi.",
+      "id": 7
+    },
+    {
+      "name": "Oufouf",
+      "password": "oufouf",
+      "emailOffers": true,
+      "interfaceStyle": "dark",
+      "subscriptionType": "Lifetime",
+      "notes": "Mercredi...!",
+      "id": 8
+    },
+    {
+      "name": "toufbvmc",
+      "password": "toufbcns",
+      "emailOffers": true,
+      "interfaceStyle": "light",
+      "subscriptionType": "Annual",
+      "notes": "blblalalalala",
+      "id": 9
+    }
+  ]
+}
